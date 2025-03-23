@@ -307,10 +307,10 @@ padding: 120px 0;
 /*                 FOOTER                     */
 .footer {
     background-color: #2e2f42;
+    padding: 100px 0;
    
 }
 .footer-container {
-padding: 100px 0;
 }
 .footer-link {
     font-family: "Raleway", sans-serif;
