@@ -218,9 +218,7 @@ padding: 120px 0;
 
 .team-list { 
     display: flex;
-    padding-bottom: 120px;
     gap: 24px;
-
 }
 
 .team-item {
@@ -309,9 +307,11 @@ padding: 120px 0;
 /*                 FOOTER                     */
 .footer {
     background-color: #2e2f42;
-    padding: 100px 0;
+   
 }
-
+.footer-container {
+padding: 100px 0;
+}
 .footer-link {
     font-family: "Raleway", sans-serif;
         font-weight: 700;
@@ -320,7 +320,7 @@ padding: 120px 0;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
-        margin-bottom: 16px;
+    margin-bottom: 16px;
         display: inline-block;
         padding: 15px 0;
 }
